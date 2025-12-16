@@ -267,6 +267,8 @@ nav a:hover::before {
 .about-avatar img {
   width: 400px;
   height: 400px;
+  max-width: 100%;
+  aspect-ratio: 1 / 1;
   border-radius: 50%;
   object-fit: cover;
   object-position: center;
@@ -605,6 +607,10 @@ nav a:hover::before {
 @media screen and (max-width: 600px) {
   .about-avatar {
     text-align: -webkit-center;
+  }
+  .about-avatar img {
+    width: 300px;
+    height: 300px;
   }
   .aboutMe {
     /* align-items: center; */
