@@ -8,8 +8,23 @@ function Experience() {
                 <li>
                     <article>
                         <a rel="noopener noreferrer" class="grid p-4 overflow-hidden md:grid-cols-5 rounded-xl lg:p-6 xl:grid-cols-12 hover:bg-gray-900">
+                            <h6 class="mb-1 ml-8 secondary-title theme-color md:col-start-2 md:col-span-4 md:ml-0 xl:col-start-3 xl:col-span-9">JP Morgan Chase & Co. - Software Engineer</h6>
+                            <time datetime="" class="medium-color row-start-1 mb-1 md:col-start-1 xl:col-span-2">Aug 2024 - Present</time>
+                            <p class="medium-color ml-8 md:col-start-2 md:col-span-4 xl:col-start-3 xl:col-span-9 md:ml-0">
+                            •  Modernized NAV analytics platform UI to React, delivering benchmark management subgrids and UX fixes that reduced manual steps and improved task accuracy for end user
+                            <br></br>
+                            • Containerized and migrated backend services to AWS EKS; implemented SQS for async messaging, CloudWatch for observability, and Liquibase for versioned schema changes across UAT, QA, and TEST environments, improving rollout consistency and reliability.
+                            <br></br>
+                            • Hardened APIs and authentication, integrated messaging (Kafka, MQ), and led high-priority defect remediation in partnership with Operations; leveraged AI tools to accelerate analysis and resolution.
+                            </p>
+                        </a>
+                    </article>
+                </li>
+                <li>
+                    <article>
+                        <a rel="noopener noreferrer" class="grid p-4 overflow-hidden md:grid-cols-5 rounded-xl lg:p-6 xl:grid-cols-12 hover:bg-gray-900">
                             <h6 class="mb-1 ml-8 secondary-title theme-color md:col-start-2 md:col-span-4 md:ml-0 xl:col-start-3 xl:col-span-9">JP Morgan Chase & Co. - Software Engineer Internship</h6>
-                            <time datetime="" class="medium-color row-start-1 mb-1 md:col-start-1 xl:col-span-2">June 2023 - Present</time>
+                            <time datetime="" class="medium-color row-start-1 mb-1 md:col-start-1 xl:col-span-2">Jun 2023 - Aug 2023</time>
                             <p class="medium-color ml-8 md:col-start-2 md:col-span-4 xl:col-start-3 xl:col-span-9 md:ml-0">
                             • Designed and maintained a complex loan integration program using Figma, React, and NodeJS. Deployed changes
                             through efficient CI/CD pipelines.
@@ -30,7 +45,7 @@ function Experience() {
                     <article>
                         <a rel="noopener noreferrer" class="grid p-4 overflow-hidden md:grid-cols-5 rounded-xl lg:p-6 xl:grid-cols-12 hover:bg-gray-900">
                             <h6 class="mb-1 ml-8 secondary-title theme-color md:col-start-2 md:col-span-4 md:ml-0 xl:col-start-3 xl:col-span-9">Fluid Group LLC - Co-Owner & Full Stack Engineer</h6>
-                            <time datetime="" class="medium-color row-start-1 mb-1 md:col-start-1 xl:col-span-2">Nov 2020 – July 2022</time>
+                            <time datetime="" class="medium-color row-start-1 mb-1 md:col-start-1 xl:col-span-2">Nov 2020 – Jul 2022</time>
                             <p class="medium-color ml-8 md:col-start-2 md:col-span-4 xl:col-start-3 xl:col-span-9 md:ml-0">
                             • Built automation software in JavaScript & Golang to purchase high-demand fashion and accessories acquiring
                             $1M+ of revenue with 10,000+ successfully purchased products between 1,000+ active subscriptions.
@@ -51,7 +66,7 @@ function Experience() {
                     <article>
                         <a rel="noopener noreferrer" class="grid p-4 overflow-hidden md:grid-cols-5 rounded-xl lg:p-6 xl:grid-cols-12 hover:bg-gray-900">
                             <h6 class="mb-1 ml-8 secondary-title theme-color md:col-start-2 md:col-span-4 md:ml-0 xl:col-start-3 xl:col-span-9">Marketing Brainology - Marketing Specialist</h6>
-                            <time datetime="" class="medium-color row-start-1 mb-1 md:col-start-1 xl:col-span-2">July 2019 - Mar 2020</time>
+                            <time datetime="" class="medium-color row-start-1 mb-1 md:col-start-1 xl:col-span-2">Jul 2019 - Mar 2020</time>
                             <p class="medium-color ml-8 md:col-start-2 md:col-span-4 xl:col-start-3 xl:col-span-9 md:ml-0">
                             • Created advertisements from interviews, projects, and other activities recorded utilizing Final Cut Pro.
                             <br></br>
@@ -72,7 +87,7 @@ function Experience() {
                             <h6 class="mb-1 ml-8 secondary-title theme-color md:col-start-2 md:col-span-4 md:ml-0 xl:col-start-3 xl:col-span-9">University of Texas at Dallas - B.S. Computer Science</h6>
                             <time datetime="" class="medium-color row-start-1 mb-1 md:col-start-1 xl:col-span-2">Aug 2020 - May 2024</time>
                             <p class="medium-color ml-8 md:col-start-2 md:col-span-4 xl:col-start-3 xl:col-span-9 md:ml-0">
-                            • Courses: Advanced Data Structures/Algorithms, C++/Linux/Java, Linear Algebra, Probability and Statistics
+                            • Courses: Machine Learning, Computer Vision, Digital Logics, Advanced Data Structures & Algorithms, C++/Linux/Java, Linear Algebra, Probability & Statistics
                             </p>
                         </a>
                     </article>

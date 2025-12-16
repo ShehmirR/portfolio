@@ -12,20 +12,22 @@ function About() {
                 <div class="row align-items-center flex-row-reverse">
                     <div class="col-lg-6">
                         <div class="about-avatar">
-                            <img class="" src={require('../assets/Shehmir.png')} title="" alt=""></img>
-                            {/* <img class="" src="https://upload.wikimedia.org/wikipedia/commons/7/7c/Profile_avatar_placeholder_large.png?20150327203541" title="" alt=""></img> */}
+                            <img class="" src={require('../assets/Shehmir.PNG')} title="" alt=""></img>
                         </div>
                     </div>
                     <div class="col-lg-6">
                         <div class="">
                             <h3 class="light-color aboutMe">About Me</h3>
-                            <h6 class="light-color lead">Computer Science major from Plano, Texas</h6>
-                            <p class="light-color">Aspiring software developer studying at the University of Texas at Dallas. 
-                                Hope to change the standard of development and user experience through programming. 
-                                Passionate self-taught programmer, interested in creating user-interfaces and 
-                                applications with experience in Python, JavaScript, CSS, HTML and C++. My ultimate 
-                                goal is to become a renowned and successful developer for an application which is 
-                                used by many.</p>
+                            <h6 class="light-color lead">SWE @ JPMorganChase based in Plano, Texas</h6>
+                            <p class="light-color">
+                            Software Engineer at JPMorgan Chase and UT Dallas alum. I care about finding patterns in complex systems and using those insights to design clean abstractions, simplify workflows, and ship reliable software. Problem solving keeps me going. I like taking a tough issue apart, tracing it to the root, and putting it back together in a way that makes sense.
+                            <br></br>
+                            <br></br>
+                            Day to day I build data informed, cloud native services and user experiences. I work with React and TypeScript on the front end, Java and Spring Boot for APIs, and containerized workloads on AWS with CI/CD, observability, and messaging. Recent work includes migrating legacy components to modern stacks, strengthening integrations and authentication, automating schema versioning, and improving reporting. The focus is reliability, faster releases, and less manual effort.
+                            <br></br>
+                            <br></br>
+                            My goal is to raise the standard of development and UX with measurable impact and software people trust every day.
+                            </p>
                         </div>
                     </div>
                 </div>
